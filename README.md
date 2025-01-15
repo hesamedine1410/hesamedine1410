@@ -1,52 +1,48 @@
-👋 Hello!
+# 👋 Welcome to My GitHub Profile!
 
-I'm [Hesamedine], a Financial Management student and a blockchain programming enthusiast.
------------------------
+Hi, I'm **Hesamedine**, a passionate **Financial Management student** and **blockchain programming enthusiast** dedicated to building innovative solutions at the intersection of finance and technology.
 
-About Me
+---
 
-🎓 Currently studying Financial Management
+## 🚀 About Me
 
-💻 Learning programming and developing smart contracts with Solidity
+- 🎓 **Student of Financial Management**, blending traditional finance with emerging technologies.
+- 💻 **Blockchain Developer in Training**, specializing in **Solidity** for smart contract development.
+- 📘 Avid learner of **financial markets**, **blockchain technology**, and **free-market economics**.
+- 🛠️ Actively exploring **personal projects** and **open-source contributions** to sharpen my skills.
 
-📘 Interested in financial markets, blockchain technology, and free-market economics
+---
 
-🛠️ Working on personal projects and contributing to open-source initiatives
+## 🛠️ Skills and Tools
 
------------------------
+### Programming Languages
+- **C** | **Solidity**
 
-Skills and Tools
+### Blockchain Development
+- **Hardhat** | **Truffle**
 
-Programming: C, Solidity
+### Tools & Platforms
+- **Git** | **GitHub**
 
-Blockchain Development: Hardhat, Truffle, Foundry
+### Interests
+- **Financial Systems** | **DApp Development** | **Blockchain Security** | **DeFi Systems**
 
-Version Control: Git and GitHub
+---
 
-Interests: Financial systems, DApp development, blockchain security, and DeFi systems
+## 🎯 Goals
 
------------------------
+- 💡 Master **blockchain-based financial systems** and contribute to innovative projects.
+- 📜 Earn industry certifications like **CFA** and **CFTE**.
+- 🌱 Expand my expertise in **DevOps**, **CI/CD tools**, and **blockchain security**.
 
-Goals
+---
 
-💡 Develop expertise in blockchain-based financial systems
+## 🌐 Let's Connect
 
-📜 Earn certifications like CFA and CFTE
+- 📫 **Email**: [hesamedine1410@gmail.com](mailto:hesamedine1410@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/hesamedine-jannesari-ladani](https://www.linkedin.com/in/hesamedine-jannesari-ladani)
+- ✖️ **X (Twitter)**: [x.com/hesamedine1410](https://x.com/hesamedine1410)
 
-🌱 Learn DevOps, CI/CD tools, and blockchain security
+---
 
------------------------
-
-Let's Connect
-
-📫 Email: [hesamedine1410@gmail.com]
-
-🌐 LinkedIn: [https://www.linkedin.com/in/hesamedine-jannesari-ladani]
-
-✖️ X (Twitter): [https://x.com/hesamedine1410?t=xLzBkHRRsxhEU4er6Eu2VQ&s=03]
-
-
-<!---
-hesamedine1410/hesamedine1410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 *Feel free to explore my repositories and get in touch if you'd like to collaborate on projects related to blockchain, finance, or decentralized systems!*
